@@ -7,6 +7,6 @@
 - Abstração de verose (resumidamente, isso se aplica na area de regressão cúbica)
 - Liquidificação
 - Análise analítica
-- Unity :D
+- Desenvolvimento web offline
 
 Como que sai do Vim?
