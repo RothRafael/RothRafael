@@ -2,11 +2,11 @@
 ...
 
 # Atualmente Aprendendo
-- Confusão industrial e Engenharia do Truco
-- Cartão presente netflix
+- Confusão industrial e Engenharia da inconveniencia
+- Cartões-presente da Netflix
 - Abstração de verose (resumidamente, isso se aplica na area de regressão cúbica)
-- liquidificação
-- Análise analitica
+- Liquidificação
+- Análise analítica
 - Unity :D
 
-Eu sei usar vim
+Como que sai do Vim?
